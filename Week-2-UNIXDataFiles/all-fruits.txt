@@ -1,0 +1,9 @@
+Apples	Apples	Peaches
+Apples	Grapes	Apples
+Grapes	Melon	Strawberries
+Huiling	Oranges	Grapes
+Melon	Peaches	Oranges
+Oranges	Strawberries	Apples
+Peaches		Peaches
+Peaches		Melon
+Strawberries		

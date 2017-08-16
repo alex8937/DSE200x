@@ -1,0 +1,9 @@
+/c/Users/Chen/Desktop/Repository/DSE200x/Week-2-UNIXDataFiles
+total 4
+drwxr-xr-x 1 chen 1049089  0 Aug 16 00:58 Directory/
+-rw-r--r-- 1 chen 1049089  0 Apr 25 18:10 Icon
+drwxr-xr-x 1 chen 1049089  0 May 30 18:56 __MACOSX/
+-rw-r--r-- 1 chen 1049089 72 Aug 16 11:43 fruits-sort.txt
+-rw-r--r-- 1 chen 1049089 57 Aug 16 11:43 fruits-unique.txt
+-rw-r--r-- 1 chen 1049089 64 Mar 31 04:08 fruits.txt
+-rw-r--r-- 1 chen 1049089 62 Aug 16 12:02 out.txt
